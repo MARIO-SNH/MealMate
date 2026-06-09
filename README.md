@@ -128,45 +128,40 @@ Supported dining locations:
 
 ---
 
-## Screenshots
+## App Screenshots
 
-### Get Started Screen
-
-Campus-themed onboarding experience designed specifically for Mahindra University students.
+### Get Started
+![Get Started](screenshots/get-started.png)
 
 ### Home Feed
-
-Browse active meals from friends and the campus community.
+![Home Feed](screenshots/home-feed.png)
 
 ### Create Meal
+![Create Meal](screenshots/create-meal.png)
 
-Create a dining plan using structured dropdown selections.
-
-### Menu Screen
-
-View the current day's Mahindra University dining menu.
-
-### Friends Screen
-
-Manage friendships and discover new meal buddies.
+### Daily Menu
+![Daily Menu](screenshots/menu-card.png)
 
 ### Meal Details
-
-View attendees, meal information, and chat access.
+![Meal Details](screenshots/meal-details.png)
 
 ### Meal Chat
+![Meal Chat](screenshots/meal-chat.png)
 
-Real-time group conversations for each meal.
+### Friends
+![Friends](screenshots/friends.png)
 
-### Reviews
+### Notifications
+![Notifications](screenshots/notifications.png)
 
-Daily and long-term dining reviews with rankings.
+### Daily Reviews
+![Daily Reviews](screenshots/daily-reviews.png)
+
+### Long-Term Dining Hall Rankings
+![Long-Term Reviews](screenshots/long-term-reviews.png)
 
 ### Profile
-
-Manage profile information and meal history.
-
----
+![Profile](screenshots/profile.png)
 
 ## Future Improvements
 
